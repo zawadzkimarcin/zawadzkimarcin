@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zawadzkimarcin
-- 👀 I’m interested in IT Project Management
-- 🌱 I’m currently learning SCRUM, SEO/SXO.
-- 💞️ I’m looking to collaborate on project management / scrum.
+- 👀 I’m interested SDLC from very beginning to the end.
+- 🌱 I’m currently learning QA (Postman, Playwright) and DevOps.
+- 💞️ I’m looking to collaborate on PO/SM/QA field.
 - 📫 How to reach me? You can write a message: zawadzkimarcinmichal@gmail.com
 
 <!---
